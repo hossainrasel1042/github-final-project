@@ -1,3 +1,4 @@
+# This Repository is done because of Coursera Requirements.
 # Simple Interest Calculator
 
 A lightweight Bash-based command-line tool that calculates simple interest
